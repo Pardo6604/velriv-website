@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Dark V shape -->
+  <path d="M20 25 L55 100 L65 100 L42 40 Z" fill="#1B2D4F"/>
+  <path d="M42 40 L65 100 L100 25 L75 25 L65 55 L55 25 Z" fill="#1E3356"/>
+  <!-- Blue leaf/flame accent -->
+  <path d="M72 18 C72 18 88 8 92 2 C92 2 98 22 88 38 C78 54 72 42 72 42 C72 42 82 28 80 20 C78 14 72 18 72 18Z" fill="url(#leafGrad)"/>
+  <defs>
+    <linearGradient id="leafGrad" x1="72" y1="40" x2="92" y2="2" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+</svg>
